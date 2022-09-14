@@ -1,5 +1,5 @@
 print("********* Phone Contact book *********\n")
-contact={"Vishnu":'036912'}
+contact={"Vedanshi":'036912','Vishnu':'36912'}
 def displayall():
     print("Name\t : \tContact")
     for key in contact:
